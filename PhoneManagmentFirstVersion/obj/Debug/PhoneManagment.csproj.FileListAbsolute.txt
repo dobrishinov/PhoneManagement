@@ -1,0 +1,37 @@
+c:\users\dobrishinov\documents\visual studio 2015\Projects\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe.config
+c:\users\dobrishinov\documents\visual studio 2015\Projects\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe
+c:\users\dobrishinov\documents\visual studio 2015\Projects\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.pdb
+c:\users\dobrishinov\documents\visual studio 2015\Projects\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.exe
+c:\users\dobrishinov\documents\visual studio 2015\Projects\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.pdb
+c:\users\dobrishinov\documents\visual studio 2015\Projects\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagment.csprojResolveAssemblyReference.cache
+C:\Users\Dobrishinov\Desktop\c#\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe.config
+C:\Users\Dobrishinov\Desktop\c#\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.exe
+C:\Users\Dobrishinov\Desktop\c#\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.pdb
+C:\Users\Dobrishinov\Desktop\c#\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe
+C:\Users\Dobrishinov\Desktop\c#\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.pdb
+C:\Users\Dobrishinov\Desktop\c#\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagment.csprojResolveAssemblyReference.cache
+E:\c#\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe.config
+E:\c#\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.exe
+E:\c#\PhoneManagmentFirstVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.pdb
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagmentSecondVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe.config
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagmentSecondVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.exe
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagmentSecondVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.pdb
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagmentSecondVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagmentSecondVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.pdb
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagmentSecondVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagment.csprojResolveAssemblyReference.cache
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagmentThirdVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe.config
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagmentThirdVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.exe
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagmentThirdVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.pdb
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagmentThirdVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagment.csprojResolveAssemblyReference.cache
+C:\Users\Dobrishinov\Desktop\PhoneManagmentThirdVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe.config
+C:\Users\Dobrishinov\Desktop\PhoneManagmentThirdVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.exe
+C:\Users\Dobrishinov\Desktop\PhoneManagmentThirdVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.pdb
+C:\Users\Dobrishinov\Desktop\PhoneManagmentThirdVersion\PhoneManagmentFirstVersion\obj\Debug\PhoneManagment.csprojResolveAssemblyReference.cache
+C:\Users\Dobrishinov\Desktop\PhoneManagmentThirdVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe
+C:\Users\Dobrishinov\Desktop\PhoneManagmentThirdVersion\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.pdb
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagment4Version\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe.config
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagment4Version\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.exe
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagment4Version\PhoneManagmentFirstVersion\obj\Debug\PhoneManagmentFirstVersion.pdb
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagment4Version\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.exe
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagment4Version\PhoneManagmentFirstVersion\bin\Debug\PhoneManagmentFirstVersion.pdb
+C:\Users\Dobrishinov\Documents\Visual Studio 2015\Projects\PhoneManagment4Version\PhoneManagmentFirstVersion\obj\Debug\PhoneManagment.csprojResolveAssemblyReference.cache
